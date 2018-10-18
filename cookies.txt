@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-leconcertlitteraire.fr	TRUE	/	FALSE	1999999999	SERVERID17573	212048|W7tID|W7tID
-www.leconcertlitteraire.fr	TRUE	/	FALSE	1999999999	SERVERID17573	212048|W7tIE|W7tID
-
