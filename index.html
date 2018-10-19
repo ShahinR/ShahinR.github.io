@@ -250,7 +250,11 @@
                     $("#menu-contact").addClass("menu-button-active");
                     html.animate({"scrollTop": contact[0].offsetTop - headerSize}, 700);
                 });
-                $("#form-submit").on("click", function() {
+				
+				
+				
+				
+                /*$("#form-submit").on("click", function() {
                     $("#contact-loading").show();
                     $("#contact-response").hide();
                     $.ajax({
@@ -271,8 +275,11 @@
                             $("#contact-response").show().text(jqXhr.responseText);
                         }
                     });
-                });
+                });*/
 
+				
+				
+				
                 window.onscroll = function() {
                     const active = $(".menu-button-active");
 
